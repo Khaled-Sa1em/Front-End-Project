@@ -25,8 +25,10 @@ color : ` rgb(9, 105, 218) `
 
 ##### Info About _Me_ :  
 
+*** I'm Khaled Abdulrahman Ebrahim Salem ***
+
 ```
-***I'm Khaled Abdulrahman Ebrahim Salem***
+    console.log(1+2)
 ```
 - play
 - test
