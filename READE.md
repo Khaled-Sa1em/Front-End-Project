@@ -42,3 +42,9 @@ some code :
 
 
 
+git log
+git commit --amend -m 'ok this is the correct message'
+
+
+ctrl + q => exit
+
