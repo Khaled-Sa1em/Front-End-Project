@@ -49,4 +49,6 @@ git commit --amend -m 'ok this is the correct message'
 ctrl + q => exit
 
 
+
 > what is this
+> something so bad
