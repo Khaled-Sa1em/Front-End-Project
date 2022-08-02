@@ -1,4 +1,4 @@
-> بسم الله الرحمن الرحيم
+>                        بسم الله الرحمن الرحيم
 
 # Front-End Project 
 
@@ -27,9 +27,10 @@ color : ` rgb(9, 105, 218) `
 
 ***I'm Khaled Abdulrahman Ebrahim Salem***
 
-some code
+some code :
 ```
-    console.log(1+2)
+      console.log(1+2)
+      
 ```
 - play
 - test
