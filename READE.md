@@ -1,8 +1,12 @@
+***> بسم الله الرحمن الرحيم
+
 # Front-End Project 
 
 To help me practice my knolwdge
 
-## info about me: 
+##### Info about me  
 
-I'm Khaled Abdulrahman Ebrahim Salem
+***I'm Khaled Abdulrahman Ebrahim Salem
+
+
 
